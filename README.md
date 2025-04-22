@@ -12,6 +12,7 @@ using a Creality Ender 3v3 ke 3D printer using black Creality CR PLA and white a
 
 # Images
 
+![](images/keyboard.png)
 ![](images/case.png)
 ![](images/switch_plate.png)
 ![](images/centerpiece.png)
@@ -55,8 +56,6 @@ end result
 
 This build guide is not very detailed since it is not aimed at beginners, the one in the [erkbd repo](https://github.com/erikpeyronson/erkbd/tree/main)
 Is more detailed and the principles are the same.
-
-
 
 #### Printing
 
