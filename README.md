@@ -13,6 +13,8 @@ using a Creality Ender 3v3 ke 3D printer using black Creality CR PLA and white a
 # Images
 
 ![](images/keyboard.png)
+![](images/centerpiece_wires.png)
+![](images/plate_wires.png)
 ![](images/case.png)
 ![](images/switch_plate.png)
 ![](images/centerpiece.png)
