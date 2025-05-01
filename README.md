@@ -108,11 +108,15 @@ The three case parts are held together using 4 5mm m3 bolts and nuts.
 | 5      | GP7 |
 
 ##### Macropad
+| Column | PIN  |
+| :----- | :--- |
 | 6      | GP14 |
 | 7      | GP15 |
 | 8      | GP16 |
 
 ##### Right side
+| Column | PIN  |
+| :----- | :--- |
 | 9       | GP21 |
 | 10      | GP23 |
 | 11      | GP20 |
