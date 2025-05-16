@@ -3,7 +3,7 @@
 ermbkbd is a qmk powered, 3D printed, handwired 46 key mx monoblock/unibody split keyboard
 with a integrated 3x3 choc v2 mini macropad and dual encoders.
 
-The project also includes a custom dsa inspired mx keycap.
+The keycaps in the imagee also designed by me and can be found here [eskc](https://github.com/erikpeyronson/eskc)
 
 It's an evolution of my first keyboard [erkbd](https://github.com/erikpeyronson/erkbd/tree/main)
 
